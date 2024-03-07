@@ -1,6 +1,6 @@
 # password-Generator
 
-Link - ["password-generator-wbsv.vercel.app"]
+Link - ["https://password-generator-wbsv.vercel.app"]
 
 # Password Generator Website
 This is a simple and elegant website that generates random passwords based on user preferences. It uses HTML, CSS, and JavaScript to create a responsive and interactive user interface. Users can choose the length and character types of their passwords, and copy them to the clipboard with one click.
